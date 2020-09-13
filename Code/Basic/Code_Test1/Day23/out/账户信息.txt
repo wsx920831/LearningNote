@@ -1,0 +1,8 @@
+id=wsx;pwd=123
+id=123;pwd=wsx
+id=edc;pwd=123
+id=rfv;pwd=123
+id=tgb;pwd=123
+id=lqazwsx;pwd=123456
+id=wsx920831;pwd=wsx200903
+id=lqq199311;pwd=wsx200903
